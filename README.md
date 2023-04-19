@@ -1,4 +1,4 @@
-### Aref Haghighi
+### Aref Mostajer Haghighi
 ___________________________________________________
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Aref_Haghighi12)](https://twitter.com/Aref_Haghighi12)
@@ -13,4 +13,7 @@ ___________________________________________________
 ### 🖥 Skills
 - Pattern Analysis
 - Deep Learning
-- 
+- Android Developer
+
+### ⚙️ Tech Stack
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android&color=353535)
