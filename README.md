@@ -16,4 +16,4 @@ ___________________________________________________
 - Android Developer
 
 ### ⚙️ Tech Stack
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android&color=353535) ![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat-square&logo=Arduino&color=353535) ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=MATLAB&color=353535)
