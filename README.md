@@ -11,8 +11,8 @@ ___________________________________________________
 - 📫 How to reach me: aref.haghighi@fau.de
 
 ### 🖥 Skills
-- Pattern Analysis
 - Deep Learning
+- Data analytic
 - Android Developer
 
 ### ⚙️ Tech Stack
