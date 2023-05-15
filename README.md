@@ -7,7 +7,7 @@ ___________________________________________________
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/aref-haghighi)
 
 - 🤔 I’m interested in innovation in healthcare systems.
-- 🌱 I am also involved in start-up activities for developing new ideas in monitoring and signal processing in helathcare systems.
+- 🌱 I am also involved in start-up activities for developing new ideas in monitoring and signal processing in healthcare systems.
 - 📫 How to reach me: aref.haghighi@fau.de
 
 ### 🖥 Skills
