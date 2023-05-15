@@ -6,7 +6,7 @@ ___________________________________________________
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aref.haghighi@fau.de)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/aref-haghighi)
 
-- 🤔 I’m interested in innovation in healthcare systems.
+- :mag: I’m interested in innovation in healthcare systems.
 - 🌱 I am also involved in start-up activities for developing new ideas in monitoring and signal processing in healthcare systems.
 - 📫 How to reach me: aref.haghighi@fau.de
 
