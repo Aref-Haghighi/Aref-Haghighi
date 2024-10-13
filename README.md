@@ -11,9 +11,13 @@ ___________________________________________________
 - 📫 How to reach me: aref.haghighi@fau.de
 
 ### 🖥 Skills
-- Deep Learning
 - Data analytic
-- Android Developer
+- App Developer
 
 ### ⚙️ Tech Stack
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android&color=353535) ![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat-square&logo=Arduino&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matlab-05122A?style=flat-square&logo=Matlab&color=353535)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android&color=353535) 
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat-square&logo=Arduino&color=353535) 
+![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat-square&logo=Matlab&color=353535) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535)
+
