@@ -25,4 +25,4 @@ ___________________________________________________
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) 
-![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535).
