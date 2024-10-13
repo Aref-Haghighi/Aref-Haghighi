@@ -20,4 +20,5 @@ ___________________________________________________
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat-square&logo=Arduino&color=353535) 
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat-square&logo=Matlab&color=353535) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535)
 
