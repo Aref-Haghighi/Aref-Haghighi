@@ -9,7 +9,7 @@ ___________________________________________________
 - :mag: I’m interested in innovation in healthcare systems.
 - 🌱 I am also involved in start-up activities for developing new ideas in monitoring and signal processing in healthcare systems.
 - 📫 How to reach me: aref.haghighi@fau.de
-- arefhaghighi.com
+- www.arefhaghighi.com
 
 ### 🖥 Skills
 - Data analytic
